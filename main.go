@@ -1,9 +1,10 @@
 package main
 
 import (
+	"github.com/CrollUK/DFPlayer/DFPlayerMini"
 	"machine"
 	"time"
-	"uart/DFPlayerMini"
+
 )
 
 
